@@ -19,14 +19,22 @@ Also includes script `expand_data.py` which scales and rotates all the images in
 
 ## Result
 
-Original butterfly image:
+Original baby image:
+![orig](https://github.com/Lininggggggg/SR_super_solution/blob/master/FSRCNN/test_result/00002_HR.bmp?raw=true)
+
+![orig](https://github.com/Lininggggggg/SR_super_solution/blob/master/FSRCNN/test_result/00002_HR_color.bmp?raw=true)
+
+Bicubic interpolated image and color image:
+
 ![orig](https://raw.github.com/Lininggggggg/SR_super_solution/master/FSRCNN/test_result/00002_BIC.bmp?raw=true)
 
-Bicubic interpolated image:
+![orig](https://github.com/Lininggggggg/SR_super_solution/blob/master/FSRCNN/test_result/00002_BIC_color.bmp?raw=true)
 
+FSRCNN image and color image:
 
-Super-resolved image:
+![orig](https://github.com/Lininggggggg/SR_super_solution/blob/master/FSRCNN/test_result/00002_FSR.bmp?raw=true)
 
+![orig](https://github.com/Lininggggggg/SR_super_solution/blob/master/FSRCNN/test_result/00002_FSR_color.bmp?raw=true)
 
 
 ## References
