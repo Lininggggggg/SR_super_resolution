@@ -20,7 +20,7 @@ Also includes script `expand_data.py` which scales and rotates all the images in
 ## Result
 
 Original butterfly image:
-
+![orig](https://raw.github.com/Lininggggggg/SR_super_solution/master/FSRCNN/test_result/00002_BIC.bmp?raw=true)
 
 Bicubic interpolated image:
 
