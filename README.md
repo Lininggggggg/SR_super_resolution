@@ -1,2 +1,2 @@
-# SR_super_solution
-This is a repository of SR_super_solution
+# SR_super_resolution
+This is a repository of SR_resuper_solution
