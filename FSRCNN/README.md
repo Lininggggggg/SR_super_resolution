@@ -20,6 +20,7 @@ Also includes script `expand_data.py` which scales and rotates all the images in
 ## Result
 
 Original baby image:
+
 ![orig](https://github.com/Lininggggggg/SR_super_solution/blob/master/FSRCNN/test_result/00002_HR.bmp?raw=true)
 
 ![orig](https://github.com/Lininggggggg/SR_super_solution/blob/master/FSRCNN/test_result/00002_HR_color.bmp?raw=true)
